@@ -1,5 +1,5 @@
 # Breakout
-Unityでブロック崩しゲームを作ってみた
+Unityでブロック崩しゲーム。3DCG
 
 こんな感じのゲームです
 <img src='./Resources/img/playImg.png'>
